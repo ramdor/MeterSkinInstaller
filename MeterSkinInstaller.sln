@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterSkinInstaller", "MeterSkinInstaller\MeterSkinInstaller.csproj", "{04E23B1C-26DD-4EFD-9067-902441C7389A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E23B1C-26DD-4EFD-9067-902441C7389A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E23B1C-26DD-4EFD-9067-902441C7389A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E23B1C-26DD-4EFD-9067-902441C7389A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E23B1C-26DD-4EFD-9067-902441C7389A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BCC34A-8A57-4097-A61A-D45209D8A124}
+	EndGlobalSection
+EndGlobal
