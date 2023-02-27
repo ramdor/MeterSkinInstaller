@@ -59,18 +59,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -80,69 +80,41 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <None Include="Resources\ananMM-1.png" />
+    <None Include="Resources\cross-needle.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-1-large.png" />
+    <None Include="Resources\cross-needle-bg.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-1-small.png" />
+    <None Include="Resources\cross-needle-bg-large.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-10.png" />
+    <None Include="Resources\cross-needle-bg-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-10-large.png" />
+    <None Include="Resources\cross-needle-dark.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-10-small.png" />
+    <None Include="Resources\cross-needle-dark-large.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-15.png" />
+    <None Include="Resources\cross-needle-dark-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-15-large.png" />
+    <None Include="Resources\cross-needle-large.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-15-small.png" />
+    <None Include="Resources\cross-needle-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-30.png" />
+    <None Include="Resources\eye-bezel-glass.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-30-large.png" />
+    <None Include="Resources\eye-bezel-glass-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-30-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-100.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-100-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-100-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-200.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-200-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-200-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-500.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-500-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-500-small.png" />
+    <None Include="Resources\ananMM.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ananMM-bg.png" />
@@ -163,208 +135,22 @@
     <None Include="Resources\ananMM-bg-tx-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-dark-1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-1-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-1-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-10.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-10-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-10-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-15.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-15-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-15-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-30.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-30-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-30-small.png" />
+    <None Include="Resources\ananMM-dark.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ananMM-dark-100.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-dark-100-large.png" />
+    <None Include="Resources\ananMM-dark-large.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-dark-100-small.png" />
+    <None Include="Resources\ananMM-dark-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-dark-200.png" />
+    <None Include="Resources\ananMM-large.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ananMM-dark-200-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-200-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-500.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-500-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-500-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-1-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-1-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-10.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-10-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-10-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-15.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-15-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-15-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-30.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-30-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-30-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-100.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-100-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-100-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-200.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-200-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-200-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-500.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-500-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-500-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-bg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-bg-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-bg-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-1-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-1-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-10.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-10-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-10-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-15.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-15-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-15-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-30.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-30-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-30-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-100.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-100-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-100-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-200.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-200-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-200-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-500.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-500-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cross-needle-dark-500-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\eye-bezel-glass.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\eye-bezel-glass-small.png" />
+    <None Include="Resources\ananMM-small.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

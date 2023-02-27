@@ -63,209 +63,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_1 {
+        internal static System.Drawing.Bitmap ananMM {
             get {
-                object obj = ResourceManager.GetObject("ananMM_1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_1_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_1_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_1_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_1_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_10 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_10", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_10_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_10_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_10_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_10_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_100 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_100", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_100_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_100_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_100_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_100_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_15 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_15", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_15_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_15_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_15_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_15_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_200 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_200", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_200_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_200_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_200_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_200_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_30 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_30", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_30_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_30_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_30_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_30_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_500 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_500", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_500_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_500_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_500_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_500_small", resourceCulture);
+                object obj = ResourceManager.GetObject("ananMM", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,59 +133,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_1 {
+        internal static System.Drawing.Bitmap ananMM_dark {
             get {
-                object obj = ResourceManager.GetObject("ananMM_dark_1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_1_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_1_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_1_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_1_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_10 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_10", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_10_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_10_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_10_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_10_small", resourceCulture);
+                object obj = ResourceManager.GetObject("ananMM_dark", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -403,9 +153,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_100_large {
+        internal static System.Drawing.Bitmap ananMM_dark_large {
             get {
-                object obj = ResourceManager.GetObject("ananMM_dark_100_large", resourceCulture);
+                object obj = ResourceManager.GetObject("ananMM_dark_large", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -413,9 +163,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_100_small {
+        internal static System.Drawing.Bitmap ananMM_dark_small {
             get {
-                object obj = ResourceManager.GetObject("ananMM_dark_100_small", resourceCulture);
+                object obj = ResourceManager.GetObject("ananMM_dark_small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -423,9 +173,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_15 {
+        internal static System.Drawing.Bitmap ananMM_large {
             get {
-                object obj = ResourceManager.GetObject("ananMM_dark_15", resourceCulture);
+                object obj = ResourceManager.GetObject("ananMM_large", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -433,9 +183,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_15_large {
+        internal static System.Drawing.Bitmap ananMM_small {
             get {
-                object obj = ResourceManager.GetObject("ananMM_dark_15_large", resourceCulture);
+                object obj = ResourceManager.GetObject("ananMM_small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -443,309 +193,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_15_small {
+        internal static System.Drawing.Bitmap cross_needle {
             get {
-                object obj = ResourceManager.GetObject("ananMM_dark_15_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_200 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_200", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_200_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_200_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_200_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_200_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_30 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_30", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_30_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_30_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_30_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_30_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_500 {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_500", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_500_large {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_500_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ananMM_dark_500_small {
-            get {
-                object obj = ResourceManager.GetObject("ananMM_dark_500_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_1 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_1_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_1_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_1_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_1_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_10 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_10", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_10_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_10_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_10_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_10_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_100 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_100", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_100_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_100_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_100_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_100_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_15 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_15", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_15_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_15_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_15_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_15_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_200 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_200", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_200_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_200_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_200_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_200_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_30 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_30", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_30_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_30_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_30_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_30_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_500 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_500", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_500_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_500_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_500_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_500_small", resourceCulture);
+                object obj = ResourceManager.GetObject("cross_needle", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -783,9 +233,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_1 {
+        internal static System.Drawing.Bitmap cross_needle_dark {
             get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_1", resourceCulture);
+                object obj = ResourceManager.GetObject("cross_needle_dark", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -793,9 +243,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_1_large {
+        internal static System.Drawing.Bitmap cross_needle_dark_large {
             get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_1_large", resourceCulture);
+                object obj = ResourceManager.GetObject("cross_needle_dark_large", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -803,9 +253,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_1_small {
+        internal static System.Drawing.Bitmap cross_needle_dark_small {
             get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_1_small", resourceCulture);
+                object obj = ResourceManager.GetObject("cross_needle_dark_small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -813,9 +263,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_10 {
+        internal static System.Drawing.Bitmap cross_needle_large {
             get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_10", resourceCulture);
+                object obj = ResourceManager.GetObject("cross_needle_large", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -823,169 +273,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_10_large {
+        internal static System.Drawing.Bitmap cross_needle_small {
             get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_10_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_10_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_10_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_100 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_100", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_100_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_100_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_100_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_100_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_15 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_15", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_15_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_15_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_15_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_15_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_200 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_200", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_200_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_200_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_200_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_200_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_30 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_30", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_30_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_30_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_30_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_30_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_500 {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_500", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_500_large {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_500_large", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cross_needle_dark_500_small {
-            get {
-                object obj = ResourceManager.GetObject("cross_needle_dark_500_small", resourceCulture);
+                object obj = ResourceManager.GetObject("cross_needle_small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
