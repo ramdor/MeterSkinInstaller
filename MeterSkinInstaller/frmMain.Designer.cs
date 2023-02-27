@@ -59,7 +59,7 @@
             // 
             this.tmrGo.Enabled = true;
             this.tmrGo.Interval = 1000;
-            this.tmrGo.Tick += new System.EventHandler(this.timer1_Tick);
+            this.tmrGo.Tick += new System.EventHandler(this.tmrGo_Tick);
             // 
             // label3
             // 

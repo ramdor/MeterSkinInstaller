@@ -1,4 +1,4 @@
-﻿//MW0LGE 26/03/23
+﻿//MW0LGE 26/02/23
 using MeterSkinInstaller.Properties;
 using System;
 using System.Collections;
@@ -19,16 +19,15 @@ namespace MeterSkinInstaller
             InitializeComponent();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void tmrGo_Tick(object sender, EventArgs e)
         {
-            if(_bDone)
+            tmrGo.Enabled = false;
+
+            if (_bDone)
             {
-                tmrGo.Enabled = false;
                 this.Close();
                 return;
             }
-
-            tmrGo.Enabled = false;
 
             Cursor c = Cursor.Current;
             Cursor.Current = Cursors.WaitCursor;            
@@ -75,7 +74,10 @@ namespace MeterSkinInstaller
                     }
                 }
             }
+
             Cursor = c;
+
+            // restart timer, 1second later we will exit
             _bDone = true;
             tmrGo.Enabled = true;
         }
