@@ -81,6 +81,42 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\ananMM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-bg-large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-bg-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-bg-tx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-bg-tx-large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-bg-tx-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-dark-large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-dark-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ananMM-small.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\cross-needle.png" />
   </ItemGroup>
   <ItemGroup>
@@ -112,45 +148,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\eye-bezel-glass-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-bg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-bg-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-bg-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-bg-tx.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-bg-tx-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-bg-tx-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-100.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-dark-small.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-large.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ananMM-small.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

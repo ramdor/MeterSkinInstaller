@@ -142,9 +142,6 @@
   <data name="ananMM_dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ananMM-dark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ananMM_dark_100" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ananMM-dark-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="ananMM_dark_large" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ananMM-dark-large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
