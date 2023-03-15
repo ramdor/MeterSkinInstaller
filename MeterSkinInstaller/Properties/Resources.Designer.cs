@@ -273,9 +273,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap eye_bezel_glass {
+        internal static System.Drawing.Bitmap eye_bezel {
             get {
-                object obj = ResourceManager.GetObject("eye_bezel_glass", resourceCulture);
+                object obj = ResourceManager.GetObject("eye_bezel", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,9 +283,9 @@ namespace MeterSkinInstaller.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap eye_bezel_glass_small {
+        internal static System.Drawing.Bitmap eye_bezel_small {
             get {
-                object obj = ResourceManager.GetObject("eye_bezel_glass_small", resourceCulture);
+                object obj = ResourceManager.GetObject("eye_bezel_small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

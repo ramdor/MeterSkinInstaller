@@ -81,6 +81,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\eye-bezel-small.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\ananMM.png" />
   </ItemGroup>
   <ItemGroup>
@@ -144,10 +147,7 @@
     <None Include="Resources\cross-needle-small.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\eye-bezel-glass.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\eye-bezel-glass-small.png" />
+    <None Include="Resources\eye-bezel.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
