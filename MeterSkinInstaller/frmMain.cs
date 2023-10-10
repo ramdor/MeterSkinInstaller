@@ -57,6 +57,8 @@ namespace MeterSkinInstaller
                     {
                         if (entry.Value.GetType() == typeof(Bitmap))
                         {
+                            if (entry.Key.ToString() == "mmBackgroundPic") continue; // ignore the background image
+
                             Bitmap bmp = entry.Value as Bitmap;
                             if (bmp != null)
                             {
